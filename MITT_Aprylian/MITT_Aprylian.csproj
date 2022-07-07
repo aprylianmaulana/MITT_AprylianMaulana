@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="3.1.16" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="3.1.16" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MITT_Aprylian.Domain\MITT_Aprylian.Domain.csproj" />
+    <ProjectReference Include="..\MITT_Aprylian.Repository\MITT_Aprylian.Repository.csproj" />
+    <ProjectReference Include="..\MITT_Aprylian.Service\MITT_Aprylian.Service.csproj" />
+  </ItemGroup>
+
+
+</Project>

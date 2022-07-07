@@ -1,0 +1,15 @@
+C:\Users\DHIYA NADHIRA\Documents\Project\mitt-project\MITT_Aprylian.Service\bin\Debug\netcoreapp3.1\MITT_Aprylian.Service.deps.json
+C:\Users\DHIYA NADHIRA\Documents\Project\mitt-project\MITT_Aprylian.Service\bin\Debug\netcoreapp3.1\MITT_Aprylian.Service.dll
+C:\Users\DHIYA NADHIRA\Documents\Project\mitt-project\MITT_Aprylian.Service\bin\Debug\netcoreapp3.1\MITT_Aprylian.Service.pdb
+C:\Users\DHIYA NADHIRA\Documents\Project\mitt-project\MITT_Aprylian.Service\bin\Debug\netcoreapp3.1\MITT_Aprylian.Domain.dll
+C:\Users\DHIYA NADHIRA\Documents\Project\mitt-project\MITT_Aprylian.Service\bin\Debug\netcoreapp3.1\MITT_Aprylian.Repository.dll
+C:\Users\DHIYA NADHIRA\Documents\Project\mitt-project\MITT_Aprylian.Service\bin\Debug\netcoreapp3.1\MITT_Aprylian.Domain.pdb
+C:\Users\DHIYA NADHIRA\Documents\Project\mitt-project\MITT_Aprylian.Service\bin\Debug\netcoreapp3.1\MITT_Aprylian.Repository.pdb
+C:\Users\DHIYA NADHIRA\Documents\Project\mitt-project\MITT_Aprylian.Service\obj\Debug\netcoreapp3.1\MITT_Aprylian.Service.csproj.AssemblyReference.cache
+C:\Users\DHIYA NADHIRA\Documents\Project\mitt-project\MITT_Aprylian.Service\obj\Debug\netcoreapp3.1\MITT_Aprylian.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DHIYA NADHIRA\Documents\Project\mitt-project\MITT_Aprylian.Service\obj\Debug\netcoreapp3.1\MITT_Aprylian.Service.AssemblyInfoInputs.cache
+C:\Users\DHIYA NADHIRA\Documents\Project\mitt-project\MITT_Aprylian.Service\obj\Debug\netcoreapp3.1\MITT_Aprylian.Service.AssemblyInfo.cs
+C:\Users\DHIYA NADHIRA\Documents\Project\mitt-project\MITT_Aprylian.Service\obj\Debug\netcoreapp3.1\MITT_Aprylian.Service.csproj.CoreCompileInputs.cache
+C:\Users\DHIYA NADHIRA\Documents\Project\mitt-project\MITT_Aprylian.Service\obj\Debug\netcoreapp3.1\MITT_Aprylian.Service.csproj.CopyComplete
+C:\Users\DHIYA NADHIRA\Documents\Project\mitt-project\MITT_Aprylian.Service\obj\Debug\netcoreapp3.1\MITT_Aprylian.Service.dll
+C:\Users\DHIYA NADHIRA\Documents\Project\mitt-project\MITT_Aprylian.Service\obj\Debug\netcoreapp3.1\MITT_Aprylian.Service.pdb

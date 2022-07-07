@@ -1,0 +1,10 @@
+C:\Users\DHIYA NADHIRA\Documents\Project\mitt-project\MITT_Aprylian.Domain\bin\Debug\netcoreapp3.1\MITT_Aprylian.Domain.deps.json
+C:\Users\DHIYA NADHIRA\Documents\Project\mitt-project\MITT_Aprylian.Domain\bin\Debug\netcoreapp3.1\MITT_Aprylian.Domain.dll
+C:\Users\DHIYA NADHIRA\Documents\Project\mitt-project\MITT_Aprylian.Domain\bin\Debug\netcoreapp3.1\MITT_Aprylian.Domain.pdb
+C:\Users\DHIYA NADHIRA\Documents\Project\mitt-project\MITT_Aprylian.Domain\obj\Debug\netcoreapp3.1\MITT_Aprylian.Domain.csproj.AssemblyReference.cache
+C:\Users\DHIYA NADHIRA\Documents\Project\mitt-project\MITT_Aprylian.Domain\obj\Debug\netcoreapp3.1\MITT_Aprylian.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DHIYA NADHIRA\Documents\Project\mitt-project\MITT_Aprylian.Domain\obj\Debug\netcoreapp3.1\MITT_Aprylian.Domain.AssemblyInfoInputs.cache
+C:\Users\DHIYA NADHIRA\Documents\Project\mitt-project\MITT_Aprylian.Domain\obj\Debug\netcoreapp3.1\MITT_Aprylian.Domain.AssemblyInfo.cs
+C:\Users\DHIYA NADHIRA\Documents\Project\mitt-project\MITT_Aprylian.Domain\obj\Debug\netcoreapp3.1\MITT_Aprylian.Domain.csproj.CoreCompileInputs.cache
+C:\Users\DHIYA NADHIRA\Documents\Project\mitt-project\MITT_Aprylian.Domain\obj\Debug\netcoreapp3.1\MITT_Aprylian.Domain.dll
+C:\Users\DHIYA NADHIRA\Documents\Project\mitt-project\MITT_Aprylian.Domain\obj\Debug\netcoreapp3.1\MITT_Aprylian.Domain.pdb

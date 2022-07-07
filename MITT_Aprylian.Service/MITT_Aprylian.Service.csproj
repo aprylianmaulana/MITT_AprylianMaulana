@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MITT_Aprylian.Domain\MITT_Aprylian.Domain.csproj" />
+    <ProjectReference Include="..\MITT_Aprylian.Repository\MITT_Aprylian.Repository.csproj" />
+  </ItemGroup>
+
+</Project>
