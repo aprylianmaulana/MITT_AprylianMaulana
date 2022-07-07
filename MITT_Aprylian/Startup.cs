@@ -52,7 +52,7 @@ namespace MITT_Aprylian
             });
             services.AddSingleton<IJwtManagerRepository, JwtManagerRepository>();
             services.AddControllers();
-            services.AddScoped<IUserProfileServices, UserProfileService>();
+            services.AddTransient<IUserProfileServices, UserProfileService>();
             services.AddScoped<IUserProfileRepository, UserProfileRepository>();
         }
 

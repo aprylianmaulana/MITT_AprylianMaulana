@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using MITT_Aprylian.Domain.Models;
 using MITT_Aprylian.Repository.Interfaces;
@@ -43,6 +44,7 @@ namespace MITT_Aprylian.Controllers
         //    return Ok(token);
         //}
 
+        [Authorize]
         [Route("RegisterUser")]
         [HttpPost]
         public async Task<IActionResult> RegisterUser(UserProfileModel usersProfile)
@@ -51,6 +53,7 @@ namespace MITT_Aprylian.Controllers
             return Ok(data);
         }
 
+        [Authorize]
         [Route("UpdateUser")]
         [HttpPut]
         public async Task<IActionResult> UpdateUser(UserProfileModel usersProfile)
